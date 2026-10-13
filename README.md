@@ -32,16 +32,18 @@
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </p>
 
+
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub statistics" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" alt="Most used programming languages" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=mukendra-jaiswar&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mukendra-jaiswar&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
+  <img width="70%" src="https://streak-stats.demolab.com?user=mukendra-jaiswar&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
+
 
 ## 🐍 My Contribution Journey
 
