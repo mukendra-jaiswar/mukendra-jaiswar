@@ -48,7 +48,7 @@
 ## 🐍 My Contribution Journey
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg" alt="Animated contribution graph" />
+  <img src="https://raw.githubusercontent.com/mukendra-jaiswar/mukendra-jaiswar/output/github-contribution-grid-snake-dark.svg" alt="Animated contribution graph" />
 </p>
 
 ## 🎯 Current Goals
