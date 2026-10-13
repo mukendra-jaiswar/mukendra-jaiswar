@@ -23,14 +23,29 @@
 
 > 💡 *Every expert was once a beginner. I believe in learning consistently and improving one line of code at a time.*
 
+
 ## 🧰 Tech Stack & Tools
 
 <p align="left">
+  <!-- Programming Language -->
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+
+  <!-- Computer Science -->
   <img src="https://img.shields.io/badge/DSA-2C3E50?style=for-the-badge&logo=leetcode&logoColor=yellow" alt="Data Structures and Algorithms" />
+
+  <!-- Version Control -->
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </p>
+
+### 📚 Core Concepts
+- Java Programming
+- Data Structures & Algorithms (DSA)
+- Problem Solving
+- Object-Oriented Programming (OOP) — include if familiar
+- Version Control with Git
+- GitHub Repository Management
+
 
 
 ## 📊 GitHub Analytics
